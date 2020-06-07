@@ -1,4 +1,3 @@
 # Training
 
-Problemas resueltos de mayo a septiembre del 2017
-
+Competitive programming problems solved from may to september 2017
